@@ -12,7 +12,7 @@
 
 <!-- SECTION 2: INTRO & ANIMATED SUB-TEXT -->
 <div align="center">
-  <h1>Hi, I'm <a href="https://github.com/[YOUR_USERNAME]">[Your Name]</a></h1>
+  <h1>Hi, I'm <a href="https://github.com/Ph4ntooom">Ph4ntom</a></h1>
 
   <!-- PROFESSIONAL TYPING SVG: Minimal Design -->
   <a href="https://git.io/typing-svg">
@@ -26,10 +26,10 @@
   <br>
 
   <!-- SOCIAL LINKS (Flat Buttons - Highly Professional) -->
-  <a href="https://www.linkedin.com/in/[YOUR_USERNAME]">
+  <a href="https://www.linkedin.com/in/Ph4ntooom">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/[YOUR_USERNAME]">
+  <a href="https://twitter.com/Ph4ntooom">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:your@email.com">
@@ -78,9 +78,9 @@
 
 <div align="center">
   <!-- 'transparent' theme blends better with both light and dark modes professionally -->
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=5e5e5e&icon_color=5e5e5e" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ph4ntooom&show_icons=true&theme=transparent&hide_border=true&title_color=5e5e5e&icon_color=5e5e5e" height="160" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=transparent&hide_border=true&title_color=5e5e5e" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntooom&layout=compact&theme=transparent&hide_border=true&title_color=5e5e5e" height="160" alt="languages graph" />
 </div>
 
 <br>
@@ -88,5 +88,5 @@
 <!-- SECTION 5: ANIMATED FOOTER OR BANNER -->
 <div align="center">
   <!-- Shows a visitor count without the cartoony graphics -->
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile+Views&color=grey&style=for-the-badge&logo=github" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=Ph4ntooom&label=Profile+Views&color=grey&style=for-the-badge&logo=github" alt="views" />
 </div>
