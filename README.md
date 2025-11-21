@@ -1,9 +1,9 @@
 <!-- HEADER SECTION -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,161b22&height=180&section=header&text=PH4NTOOOM&fontSize=60&fontColor=38bdae&animation=fadeIn&fontAlignY=40&desc=System%20Architecture%20%7C%20Full%20Stack&descFontSize=20&descAlignY=60&descAlign=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=027BFF,00D4FF&height=200&section=header&text=PH4NTOOOM&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Architecting%20the%20Future%20%7C%20Full%20Stack&descFontSize=20&descAlignY=63&descAlign=51" width="100%" />
 <br/>
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+Digital+Solutions;Obsessed+with+Clean+Code;Building+Scalable+Backends&font=Fira+Code&center=true&width=500&height=40&color=8b949e&vCenter=true&size=14&pause=1000&background=00000000" /></a>
+<!-- TYPING ANIMATION: Pure White and Blue -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Architecture;Clean+Code+Enthusiast;Building+Scalable+Systems&font=Fira+Code&center=true&width=500&height=50&color=3382ff&vCenter=true&size=15&pause=1000&background=00000000" /></a>
 </div>
 
 <!-- SPACING -->
@@ -14,21 +14,23 @@
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="50%" valign="top">
-<!-- LEFT COLUMN: INTRODUCTION -->
-<div align="center"><h3 style="color: #e6edf3;">🧠 The Methodology</h3></div>
-<p align="center" style="color: #8b949e;">
-Code is not just instructions; it is communication. <br/>I build systems that are visually minimal but computationally powerful.
+<!-- LEFT COLUMN: INTRO -->
+<div align="center"><h3 style="color: #ffffff;">🟦 The Mission</h3></div>
+<p align="center" style="color: #c9d1d9;">
+Specializing in robust infrastructure and fluid UI.<br/>Focusing on simplicity and performance.
 </p>
 <div align="center">
-<!-- FLAT, MODERN BUTTONS (NO STROKE) -->
-<a href="https://github.com/Ph4ntooom"><img src="https://img.shields.io/badge/GitHub-1f2428?style=for-the-badge&logo=github&logoColor=white" height="30"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/></a>
+<!-- WHITE & BLUE SOCIAL BUTTONS -->
+<a href="https://github.com/Ph4ntooom"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=027BFF" height="35"/></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-027BFF?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=027BFF" height="35"/></a>
 </div>
 </td>
 <td width="50%" valign="top">
-<!-- RIGHT COLUMN: STATS GRAPH -->
+<!-- RIGHT COLUMN: STATS GRAPH (Custom Blue/White Theme) -->
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ph4ntooom&show_icons=true&theme=transparent&hide_border=true&title_color=38bdae&text_color=8b949e&icon_color=38bdae&count_private=true" width="100%" />
+<!-- I created a custom palette inside the URL here to match your request exactly -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ph4ntooom&show_icons=true&theme=transparent&hide_border=true&title_color=00D4FF&text_color=ffffff&icon_color=027BFF&count_private=true" width="100%" />
 </div>
 </td>
 </tr>
@@ -41,10 +43,10 @@ Code is not just instructions; it is communication. <br/>I build systems that ar
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
 <td width="60%" valign="top">
-<div align="center"><h3 style="color: #e6edf3;">🛠 Global Arsenal</h3></div>
+<div align="center"><h3 style="color: #ffffff;">🛠 The Stack</h3></div>
 <div align="center">
-<!-- ICON GRID -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,go,docker,aws,firebase,mongodb&theme=dark&perline=15" />
+<!-- ICONS -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,java,postgres,docker,aws,figma&theme=dark&perline=15" />
 </div>
 </td>
 </tr>
@@ -54,14 +56,15 @@ Code is not just instructions; it is communication. <br/>I build systems that ar
 <br/>
 
 <!-- CODE FREQUENCY (FULL WIDTH) -->
-<div align="center"><h3 style="color: #e6edf3;">📊 Development Frequency</h3></div>
+<div align="center"><h3 style="color: #ffffff;">📊 Code Output</h3></div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntooom&layout=compact&theme=transparent&hide_border=true&title_color=38bdae&text_color=8b949e" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntooom&layout=compact&theme=transparent&hide_border=true&title_color=00D4FF&text_color=c9d1d9" width="60%" />
 </div>
 </div>
 
 <!-- FOOTER -->
 <div align="center">
 <br/><br/>
-<img src="https://komarev.com/ghpvc/?username=Ph4ntooom&label=PROFILE%20VIEWS&color=0d1117&style=for-the-badge&logo=github&labelColor=161b22" />
+<!-- VISITOR COUNT -->
+<img src="https://komarev.com/ghpvc/?username=Ph4ntooom&label=PROFILE%20VIEWS&color=007aff&style=for-the-badge&logo=github&labelColor=ffffff&logoColor=007aff" />
 </div>
