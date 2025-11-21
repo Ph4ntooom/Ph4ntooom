@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=027BFF,00D4FF&height=200&section=header&text=PH4NTOOOM&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Architecting%20the%20Future%20%7C%20Full%20Stack&descFontSize=20&descAlignY=63&descAlign=51" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=027BFF,00D4FF&height=200&section=header&text=Ph4ntom&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Architecting%20the%20Future%20%7C%20Full%20Stack&descFontSize=20&descAlignY=63&descAlign=51" width="100%" />
 <br/>
 <!-- TYPING ANIMATION: Pure White and Blue -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Architecture;Clean+Code+Enthusiast;Building+Scalable+Systems&font=Fira+Code&center=true&width=500&height=50&color=3382ff&vCenter=true&size=15&pause=1000&background=00000000" /></a>
@@ -22,7 +22,7 @@ Specializing in robust infrastructure and fluid UI.<br/>Focusing on simplicity a
 <div align="center">
 <!-- WHITE & BLUE SOCIAL BUTTONS -->
 <a href="https://github.com/Ph4ntooom"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=027BFF" height="35"/></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-027BFF?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
+<a href="https://linkedin.com/in/aayan-hassan"><img src="https://img.shields.io/badge/LinkedIn-027BFF?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
 <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=027BFF" height="35"/></a>
 </div>
 </td>
@@ -46,7 +46,7 @@ Specializing in robust infrastructure and fluid UI.<br/>Focusing on simplicity a
 <div align="center"><h3 style="color: #ffffff;">🛠 The Stack</h3></div>
 <div align="center">
 <!-- ICONS -->
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,nodejs,express,python,java,postgres,docker,aws,figma&theme=dark&perline=15" />
+<img src="https://skillicons.dev/icons?i=py,html,css,js,discordjs,nodejs,c,cpp,java,bots,figma,ps&theme=dark&perline=15" />
 </div>
 </td>
 </tr>
