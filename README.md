@@ -1,57 +1,92 @@
-<!-- HEADER AND BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=38&desc=I%20am%20Aayan%20Hassan&descAlignY=51&descAlign=62" alt="header" width="100%"/>
+<!-- SECTION 1: HERO BANNER -->
+<!-- Create a 1500x400px image. Use a solid or subtle gradient background. 
+     Add your Name and Job Title in a modern font in the center of the image.
+     Upload it to your repo issues or an assets folder and paste link below. -->
 
-<!-- TYPING EFFECT: REPLACE 'Your Name' AND THE TEXT LINES BELOW -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated Footer" width="100%">
+</div>
+<!-- (Note: The link above is a placeholder subtle divider, replace it with your custom banner if you make one) -->
+
+<br>
+
+<!-- SECTION 2: INTRO & ANIMATED SUB-TEXT -->
+<div align="center">
+  <h1>Hi, I'm <a href="https://github.com/[YOUR_USERNAME]">[Your Name]</a></h1>
+
+  <!-- PROFESSIONAL TYPING SVG: Minimal Design -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7&vCenter=true&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+Software+Engineer;Building+Scalable+Architecture;Open+Source+Contributor&font=Roboto&center=true&width=500&height=50&color=5e5e5e&vCenter=true&size=16&pause=1000" alt="Typing SVG" />
+  </a>
+  
+  <p>
+    <b>Currently building things at [Company/Freelance]</b>
+  </p>
+  
+  <br>
+
+  <!-- SOCIAL LINKS (Flat Buttons - Highly Professional) -->
+  <a href="https://www.linkedin.com/in/[YOUR_USERNAME]">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/[YOUR_USERNAME]">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://[YOUR_WEBSITE].com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 
-<!-- SOCIALS CENTERED -->
-<p align="center">
-  <a href="https://twitter.com/[YOUR_USERNAME]" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://linkedin.com/in/[YOUR_USERNAME]" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/[YOUR_USERNAME]" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+<br>
+<hr>
 
----
+<!-- SECTION 3: SKILLS GRID -->
+<!-- Instead of playful icons, we use organized layouts. -->
 
-<!-- ABOUT ME SECTION -->
-<h3 align="center">👾 About Me</h3>
+### 🛠 Technical Expertise
 
-<p align="center"> 
-  I am a passionate developer from <b>[Your Location]</b> turning ideas into reality.
-  <br>
-  Currently working on <b>[Project Name]</b> and learning <b>[New Technology]</b>.
-</p>
-
-<!-- TECH STACK ICONS (You can change the names to match your skills) -->
-<h3 align="center">🛠 Languages and Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,express,mongodb,python,figma,git&theme=dark" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="25%"><b>Frontend</b></td>
+    <td align="center" width="25%"><b>Backend</b></td>
+    <td align="center" width="25%"><b>DevOps & Cloud</b></td>
+    <td align="center" width="25%"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,redux&perline=3" width="100" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,python,go,postgres,redis&perline=3" width="100" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,firebase,nginx&perline=3" width="100" />
+    </td>
+     <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,figma,vscode,linux,postman&perline=3" width="100" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- GITHUB STATS -->
+<!-- SECTION 4: ANALYTICS (Clean Theme) -->
+### 📊 GitHub Analytics
+
 <div align="center">
-  <!-- General Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ph4ntooom&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntooom&layout=compact&theme=radical"/>
+  <!-- 'transparent' theme blends better with both light and dark modes professionally -->
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=transparent&hide_border=true&title_color=5e5e5e&icon_color=5e5e5e" height="160" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=transparent&hide_border=true&title_color=5e5e5e" height="160" alt="languages graph" />
 </div>
 
-<!-- ANIMATED SNAKE GAME (See instructions below on how to activate this) -->
-<!-- 
-<p align="center">
-  <img src="https://github.com/Ph4ntooom/Ph4ntooom/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
-</p>
--->
-
 <br>
 
-<!-- FOOTER WITH PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ph4ntooom&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
+<!-- SECTION 5: ANIMATED FOOTER OR BANNER -->
+<div align="center">
+  <!-- Shows a visitor count without the cartoony graphics -->
+  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile+Views&color=grey&style=for-the-badge&logo=github" alt="views" />
+</div>
