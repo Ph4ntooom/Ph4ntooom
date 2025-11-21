@@ -1,6 +1,6 @@
 <!-- HEADER AND BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=38&desc=I%20am%20[Your%20Name]&descAlignY=51&descAlign=62" alt="header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=80&animation=fadeIn&fontAlignY=38&desc=I%20am%20Aayan%20Hassan&descAlignY=51&descAlign=62" alt="header" width="100%"/>
 
 <!-- TYPING EFFECT: REPLACE 'Your Name' AND THE TEXT LINES BELOW -->
   <a href="https://git.io/typing-svg">
@@ -37,9 +37,9 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <!-- General Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical"/>
 </div>
 
 <!-- ANIMATED SNAKE GAME (See instructions below on how to activate this) -->
