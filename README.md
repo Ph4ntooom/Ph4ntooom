@@ -37,15 +37,15 @@
 <!-- GITHUB STATS -->
 <div align="center">
   <!-- General Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB_USERNAME]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ph4ntooom&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntooom&layout=compact&theme=radical"/>
 </div>
 
 <!-- ANIMATED SNAKE GAME (See instructions below on how to activate this) -->
 <!-- 
 <p align="center">
-  <img src="https://github.com/[YOUR_GITHUB_USERNAME]/[YOUR_GITHUB_USERNAME]/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/Ph4ntooom/Ph4ntooom/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
 </p>
 -->
 
@@ -53,5 +53,5 @@
 
 <!-- FOOTER WITH PROFILE VIEWS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ph4ntooom&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
 </p>
