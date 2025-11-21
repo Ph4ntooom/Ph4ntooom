@@ -10,13 +10,13 @@
   
   <!-- CUSTOM GRADIENT SOCIAL BUTTONS -->
   <!-- These badges use the specific hex codes for a vibrant consistency -->
-  <a href="https://github.com/[YOUR_USERNAME]">
+  <a href="https://github.com/Ph4ntooom">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://twitter.com/[YOUR_USERNAME]">
+  <a href="https://twitter.com/Ph4ntooom">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://linkedin.com/[YOUR_USERNAME]">
+  <a href="https://linkedin.com/Ph4ntooom">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
 </div>
@@ -43,7 +43,7 @@
         <br>
         ⚡ <b>Fun Fact:</b> I design my own assets.
         <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=radical&hide_border=true&background=0d1117&stroke=FF0050&ring=00F2EA&fire=FF0050" alt="Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ph4ntooom&theme=radical&hide_border=true&background=0d1117&stroke=FF0050&ring=00F2EA&fire=FF0050" alt="Streak" width="100%" />
       </div>
     </td>
 
@@ -52,9 +52,9 @@
        <div align="center">
          <h3>⚡ Power Levels</h3>
          <!-- The 'radical' theme creates the Neon effect. We remove the border for a cleaner look -->
-         <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0050&icon_color=00F2EA" alt="Github Stats" />
+         <img src="https://github-readme-stats.vercel.app/api?username=Ph4ntooom&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0050&icon_color=00F2EA" alt="Github Stats" />
          <br>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0050" alt="Languages" />
+         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntooom&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0050" alt="Languages" />
       </div>
     </td>
   </tr>
