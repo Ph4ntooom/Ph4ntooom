@@ -1,80 +1,70 @@
-<!-- SECTION 1: NEON HERO HEADER -->
+<!-- HERO SECTION -->
+<!-- Replace the 'src' below with your own created Header Image (1500x500px) later -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0_0:FF0050_100:00F2EA&height=2&section=header" width="100%" alt="Rainbow line" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,0d1117&height=150&section=header&text=Building%20Digital%20Experiences&fontSize=50&fontColor=ffffff&fontAlignY=50" width="100%"/>
+</div>
+
+<!-- INTRO SECTION -->
+<div align="center">
+  <h1 align="center">Hello, I'm <a href="https://github.com/Ph4ntooom">Ph4ntooom</a></h1>
   
-  <!-- REPLACE THE LINK BELOW WITH YOUR CUSTOM NEON BANNER -->
-  <!-- If you don't have one yet, I have placed a temporary dynamic gradient text below -->
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CREATIVE+DEVELOPER;UI/UX+ARCHITECT;FULL+STACK+ENGINEER&font=Fira+Code&center=true&width=600&height=120&color=00F2EA&vCenter=true&size=40&weight=bold&letterSpacing=2&pause=1000&background=00000000" alt="Neon Typing" />
-  
-  <br>
-  
-  <!-- CUSTOM GRADIENT SOCIAL BUTTONS -->
-  <!-- These badges use the specific hex codes for a vibrant consistency -->
-  <a href="https://github.com/Ph4ntooom">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://twitter.com/Ph4ntooom">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://linkedin.com/Ph4ntooom">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+  <!-- Clean, Minimalist Typing Effect -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+Scalable+Systems;Crafting+Clean+Code;designing+UI/UX&font=Inter&center=true&width=500&height=50&color=a8a8a8&vCenter=true&size=14&pause=1000&background=00000000" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
-<!-- SECTION 2: THE TERMINAL & STATS DASHBOARD (The Unique Layout) -->
+<!-- THE BENTO GRID (Table Layout) -->
 <div align="center">
-<table>
+<table border="0" role="presentation">
   <tr>
-    <!-- LEFT COLUMN: The Terminal Bio -->
-    <td valign="top" width="55%">
-      <h3>👨‍💻 Root/User/Bio</h3>
-      <div align="left">
-        <br>
-         <code><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></code> 
-         <b>Welcome to my repo.</b>
-        <br><br>
-        ✨ <b>Visuals:</b> Focused on <code>CSS3 Animations</code> & <code>UI Motion</code>
-        <br>
-        🚀 <b>Building:</b> High-performance Web Apps
-        <br>
-        🔮 <b>Learning:</b> <code>Three.js</code> & <code>AI Integration</code>
-        <br>
-        ⚡ <b>Fun Fact:</b> I design my own assets.
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ph4ntooom&theme=radical&hide_border=true&background=0d1117&stroke=FF0050&ring=00F2EA&fire=FF0050" alt="Streak" width="100%" />
-      </div>
+    <!-- CARD 1: ABOUT (Left Column) -->
+    <td valign="top" width="50%">
+      <h3>🧠 The Mindset</h3>
+      <p>
+        I specialize in building applications that prioritize performance and aesthetic simplicity. 
+        I treat code as a craft.
+      </p>
+      <br>
+      <!-- Clean, Monochrome Social Buttons -->
+      <a href="https://linkedin.com/in/[YOUR_USERNAME]">
+        <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white" />
+      </a>
+      <a href="https://twitter.com/[YOUR_USERNAME]">
+        <img src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter&logoColor=white" />
+      </a>
+      <a href="mailto:your-email@example.com">
+        <img src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail&logoColor=white" />
+      </a>
     </td>
 
-    <!-- RIGHT COLUMN: The Vibrant Stats -->
-    <td valign="top" width="45%">
-       <div align="center">
-         <h3>⚡ Power Levels</h3>
-         <!-- The 'radical' theme creates the Neon effect. We remove the border for a cleaner look -->
-         <img src="https://github-readme-stats.vercel.app/api?username=Ph4ntooom&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0050&icon_color=00F2EA" alt="Github Stats" />
-         <br>
-         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntooom&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF0050" alt="Languages" />
-      </div>
+    <td valign="top" width="50%">
+      <h3>📊 Performance</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Ph4ntooom&show_icons=true&theme=buefy&hide_border=true&bg_color=0d1117&count_private=true" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<!-- ROW 2 of Grid -->
+<table border="0" role="presentation">
+  <tr>
+    <td width="60%">
+      <!-- Tech Stack (Grayscale / Muted for Professional look) -->
+      <h3>🛠 Technologies</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,python,go,docker,kubernetes,aws,figma&perline=11&theme=dark" />
+    </td>
+    <td width="40%">
+       <!-- Top Languages (Matching Theme) -->
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph4ntooom&layout=compact&theme=buefy&hide_border=true&bg_color=0d1117" width="100%" />
     </td>
   </tr>
 </table>
 </div>
 
+<!-- FOOTER (Subtle) -->
 <br>
-
-<!-- SECTION 3: THE FLOATING TECH ORB (Replaces standard icon lists) -->
 <div align="center">
-  <h3>🛠 Tech Stack Arsenal</h3>
-  <br>
-  <!-- By using &perline=7 and theme=dark, these icons pop against the dark mode -->
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,threejs,tailwind,sass,html,js,ts,python,django,git,figma,blender&perline=14&theme=dark" />
-</div>
-
-<br>
-<br>
-
-<!-- FOOTER GRADIENT LINE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0_0:FF0050_100:00F2EA&height=100&section=footer&text=CONTACT%20ME&fontSize=25&fontColor=ffffff" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=Ph4ntooom&label=VIEWS&color=2c2c2c&style=flat-square&logo=github" alt="views" />
 </div>
