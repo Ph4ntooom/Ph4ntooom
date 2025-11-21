@@ -23,7 +23,7 @@ Specializing in robust infrastructure and fluid UI.<br/>Focusing on simplicity a
 <!-- WHITE & BLUE SOCIAL BUTTONS -->
 <a href="https://github.com/Ph4ntooom"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=027BFF" height="35"/></a>
 <a href="https://linkedin.com/in/aayan-hassan"><img src="https://img.shields.io/badge/LinkedIn-027BFF?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=027BFF" height="35"/></a>
+<a href="mailto:contact@ph4ntom.org"><img src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=027BFF" height="35"/></a>
 </div>
 </td>
 <td width="50%" valign="top">
